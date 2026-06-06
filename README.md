@@ -1,69 +1,227 @@
-<h1 align="center">Hi 👋, I'm Amarendra Baitha</h1>
-<h3 align="center">A passionate iOS developer from India</h3>
+<div align="center">
 
-🔵 B.Tech Computer Science Enggineer
+#  Amarendra Baitha
 
-🔵 💻 Passionate IOS Developer with 8+ years experience.
+### Senior iOS Engineer • Swift • SwiftUI • Objective-C
 
-🔵 🧠 Worked as IT analyst in TCS
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Premium+iOS+Experiences;8%2B+Years+of+Professional+Development;Enterprise+%7C+B2B+%7C+B2C+Applications;SwiftUI+Architectures+and+AI+Integration" />
 
-🔵 🤝 Open to collaboration and innovative opportunities
-
-🔵 🎯 Focused on continuous learning and writing quality code
-
-🔵 📫 Reach me at: kumaramarendra555@gmail.com
-
-🔵 Technical Skills
-
-Mobile Technologies : iOS, Swift, SwiftUI, Objective-C, XCTest, XCUTest, Xcode
-
-Frameworks: Core Data, Firebase, Realm, Swift Data, MapKit,AVFoundation, CoreML, ARKit
-
-Build Tool Xcode: Version Control Git, GitLab, Source tree Cloud & APIs Firebase, Agora APIs, Google Analytics, Social APIs , REST APIs,Third Party APIs
-
-Design Tool : Figma, Adobe XD
-
-Operating System: MacOS, iOS
-
-Project Management: Agile/Scrum
-
-🔵 Experience Summary
-
-● More than 8 years as a software professional with experience in design, development, analysis, testing, support of iOS applications.
-
-● Strong software development experience in designing and developing B2B, B2C and enterprise mobile applications using Swift, Objective-C and SwiftUI.
-
-● Extensive experience in iOS technologies including Swift, SwiftUI, Objective-C, Core Data, Swift Data, Firebase, Realm Database, File Manager, Google Analytics, Social APIs, Rest APIs, Third party APIs, Agora APIs, A VFoundation, MapKit, Call Ki, XCTest, XCUTest, UI Automation
-
-● Good experience in payment gateway like In-App-Purchases, Pay-Pal, Stripe, Apple Pay, Chat system using Socket.IO, Firebase real time database and real-time and local notification using Apple push notifications, Firebase notifications.
-
-● Ensure to complete SDLC (Software Development Life Cycle) including AGILE methodology.
-
-● Hand-on experience in Apple Human Interface Guidelines and App Store submission process.
-
-● Strong problem-solving and debugging skills, Version control using Git GitLab, Source tree.
-
-● Proven ability to work independently and collaboratively with diverse teams.
-
-● Good communication, presentation and leadership skills.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramarendra555&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramarendra555" /> </p>
-
-- 🔭 I’m currently working on **iOS Project**
-
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **IOS team**
-
-- 💬 Ask me about **IOS, Swift, SwiftUI, Objective-C**
-
-- 📫 How to reach me **kumaramarendra555@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amarendra-baitha-130431110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarendra-baitha-130431110/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amarendrabaitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amarendrabaitha" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kumaramarendra555&style=for-the-badge&color=0A84FF"/>
+  <img src="https://img.shields.io/github/followers/kumaramarendra555?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/kumaramarendra555?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+# 🚀 About Me
+
+```swift
+struct AmarendraBaitha {
+
+    // MARK: - Professional Profile
+
+    let name = "Amarendra Baitha"
+    let role = "Senior iOS Engineer"
+    let experience = "8+ Years"
+
+    // MARK: - Core Technologies
+
+    let expertise = [
+        "Swift",
+        "SwiftUI",
+        "UIKit",
+        "Objective-C"
+    ]
+
+    // MARK: - Apple Frameworks
+
+    let frameworks = [
+        "Core Data",
+        "SwiftData",
+        "MapKit",
+        "AVFoundation",
+        "CoreML",
+        "ARKit",
+        "CallKit"
+    ]
+
+    // MARK: - Backend & Cloud
+
+    let backend = [
+        "Firebase",
+        "REST APIs",
+        "Socket.IO",
+        "Agora SDK"
+    ]
+
+    // MARK: - Current Focus
+
+    let currentFocus = [
+        "AI-Powered iOS Applications",
+        "SwiftUI Architecture",
+        "Performance Optimization",
+        "Scalable Enterprise Solutions"
+    ]
+
+    // MARK: - Mission
+
+    let mission =
+    "Building premium Apple experiences with clean architecture, scalable code, and exceptional user experiences."
+}
+```
+
+### Building elegant, scalable, and user-focused mobile experiences.
+
+- 📱 Senior iOS Engineer with 8+ years of experience
+- 💼 Former IT Analyst at TCS
+- 🎓 B.Tech Computer Science Engineering
+- 🏗️ Expert in Enterprise, B2B and B2C applications
+- 🤖 Currently exploring AI on Apple platforms
+- 🚀 Passionate about performance optimization and clean architecture
+- 🤝 Available for collaborations, consulting and freelance projects
+
+---
+
+# 🛠 Apple Ecosystem Expertise
+
+<table>
+<tr>
+<td align="center">📱 iOS</td>
+<td align="center">⌚ watchOS</td>
+<td align="center">📺 tvOS</td>
+<td align="center">💻 macOS</td>
+</tr>
+</table>
+
+## Languages
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge)
+
+## Frameworks
+
+![CoreData](https://img.shields.io/badge/Core_Data-000000?style=for-the-badge)
+![SwiftData](https://img.shields.io/badge/SwiftData-0A84FF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge)
+![MapKit](https://img.shields.io/badge/MapKit-0A84FF?style=for-the-badge)
+![CoreML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge)
+![ARKit](https://img.shields.io/badge/ARKit-111111?style=for-the-badge)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kumaramarendra555&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramarendra555&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaramarendra555&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Career Highlights
+
+### Professional Achievements
+
+- ✅ 8+ Years Professional Experience
+- ✅ Multiple Production Applications Delivered
+- ✅ App Store Submission & Release Management
+- ✅ Video Calling & Live Streaming Platforms
+- ✅ Real-Time Chat Systems
+- ✅ Apple Pay, Stripe, PayPal Integration
+- ✅ Firebase & Cloud-Based Architectures
+- ✅ Agile / Scrum Delivery Experience
+- ✅ Team Leadership & Mentorship
+
+---
+
+# 📱 Featured Expertise
+
+| Domain | Experience |
+|----------|------------|
+| Mobile Architecture | MVVM, MVC, Clean Architecture |
+| Testing | XCTest, XCUITest |
+| Cloud | Firebase |
+| Communication | Agora, Socket.IO |
+| Payments | Apple Pay, Stripe, PayPal, IAP |
+| AI | CoreML |
+| Mapping | MapKit |
+| CI/CD | Git, GitLab, SourceTree |
+
+---
+
+# 🌐 Portfolio
+
+### Personal Website
+
+🔗 https://kumaramarendra555.github.io/Portfolio-Amarendra-Baitha-IOS/
+
+---
+
+# 🎓 Certifications & Learning
+
+- Apple Development Best Practices
+- SwiftUI Advanced Architectures
+- AI & Machine Learning for Mobile Apps
+- Continuous Learning through Real-World Projects
+
+---
+
+# 🐍 Contribution Snake
+
+Add the following GitHub Action:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+```
+
+Then use:
+
+```md
+![snake gif](https://github.com/kumaramarendra555/kumaramarendra555/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 🤝 Let's Connect
+
+<a href="mailto:kumaramarendra555@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amarendra-baitha-130431110">
+<img src="https://img.shields.io/badge/LinkedIn-Amarendra_Baitha-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/amarendrabaitha">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+---
+
+<div align="center">
+
+### "Design. Build. Optimize. Ship."
+
+#### Creating premium Apple experiences one app at a time.
+
+
+
+</div>
